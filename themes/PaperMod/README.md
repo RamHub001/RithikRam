@@ -1,4 +1,4 @@
-<h1 align=center>Rithik Ram | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Demo</a></h1>
+<h1 align=center>Rithik Ram | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Software Engineer</a></h1>
 
 👋 Hey, I’m Rithik
 <h4 align=center>🧠 Problem-Solver | ✨ Innovator | 🎯 Strategist</h4>
