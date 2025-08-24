@@ -1,7 +1,11 @@
-10 Best Practices for Writing Clean and Maintainable Ruby on Rails Code
+---
+title: "10 Best Practices for Writing Clean and Maintainable Ruby on Rails Code"
+date: 2025-08-24
+---
+
 As a seasoned Ruby on Rails developer, I've spent countless hours wrestling with codebases of all shapes and sizes—from speedy MVPs to sprawling, mission-critical platforms. Through trial, error, and many late-night code reviews, these best practices have become my go-to strategies for keeping Rails projects clean, maintainable, and scalable.
 
-Below, I share ten actionable tips, each supported by real-world experience, technical details, and examples. If you're looking to level up your Rails craft, this is your blueprint.
+Below, I have shared ten actionable tips, each supported by real-world experience, technical details, and examples. If you're looking to level up your Rails craft, this is your blueprint.
 
 1. Embrace Service Objects for Business Logic
 Early on, I learned that cramming business logic into controllers or models quickly turns into a mess. Service objects allow you to isolate complex operations:
