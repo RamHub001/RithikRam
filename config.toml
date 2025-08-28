@@ -2,6 +2,8 @@ baseURL = "https://rithikram.github.io/"
 title = "My Blogs"
 theme = "PaperMod"
 languageCode = "en-us"
+publishDir = "public"
+contentDir = "content"
 
 [params]
   author = "Rithik Ram Manivannan"
