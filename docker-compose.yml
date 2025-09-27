@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  app:
+    build: .
+    volumes:
+      - ./string_calculator:/app
+    working_dir: /app
+    ports:
+      - "3000:3000"
+    stdin_open: true
+    tty: true
